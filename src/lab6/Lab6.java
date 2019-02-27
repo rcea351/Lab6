@@ -18,8 +18,7 @@ public class Lab6 {
             System.out.println("Hello");
                         System.out.println("Hello");
                         System.out.println("Ricardo here");
-
-
+                        System.out.println("Franz hello");
     }
     
 }
